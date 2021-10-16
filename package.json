@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightLordYT/npm.git"
+  },
+  "author": "LightLord & Eternalmoon1234",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightLordYT/npm/issues"
+  },
+  "homepage": "https://github.com/LightLordYT/npm#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
